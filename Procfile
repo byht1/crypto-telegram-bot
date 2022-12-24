@@ -1,1 +1,1 @@
-worker: node ./dist/app.js
+worker: NODE_PATH=./dist node ./dist/app.js
